@@ -16,6 +16,6 @@
 	&emsp;My initial plan, and code, was designed as a recycler view using cards for the user to interact with the database. However, when I tried to access the database with a specific user the view no longer functioned properly. Due to time constraints this resulted in a pivot to the list view. In the end, I was able to keep the theme of the app but with a slightly different UI experience. This process taught me a lot about being resourceful and not to get discouraged if things don’t work right the first couple times - there is always an alternate solution.
 
 •	**In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?**<br><br>
-	&emsp;At this point my app is not ready to be released to the app store for users. However, as a first-time mobile developer, I am proud of what I accomplished and all that I have learned during the process. I look forward to improving upon this app and applying my new skills to other apps in the future.
+	&emsp;At this point my app is not ready to be released to the app store for users. However, as a first-time mobile developer, I am proud of what I've accomplished and all that I've learned during the process. I look forward to improving upon this app and applying my new skills to other apps in the future.
 
 
